@@ -18,8 +18,8 @@ public class GenericServletExample extends GenericServlet{
 		
 		outRes.print("<html>");
 		outRes.print("<body>");
-		outRes.print("<h1> Hello, Generic Servlet Example <h1>");
-		outRes.print("<p> Not a protocol restricted request <p>");
+		outRes.print("<h1> Hello, Generic Servlet Example 1<h1>");
+		outRes.print("<p> Not a protocol restricted request 1<p>");
 		outRes.print("</body>");
 		outRes.print("</html>");
 		
